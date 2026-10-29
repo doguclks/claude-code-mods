@@ -1,0 +1,8 @@
+{
+  "name": "turkish-mode",
+  "version": "0.1.0",
+  "description": "Makes Claude reply in Turkish; toggle it with /turkish.",
+  "author": { "name": "Dogukan Calkus" },
+  "license": "MIT",
+  "repository": "https://github.com/doguclks/claude-code-mods"
+}

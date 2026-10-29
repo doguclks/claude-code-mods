@@ -1,0 +1,8 @@
+{
+  "name": "command-shield",
+  "version": "0.1.0",
+  "description": "Asks you before Claude runs a dangerous Bash or PowerShell command (recursive delete, force push, reset --hard...).",
+  "author": { "name": "Dogukan Calkus" },
+  "license": "MIT",
+  "repository": "https://github.com/doguclks/claude-code-mods"
+}

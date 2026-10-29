@@ -1,0 +1,22 @@
+{
+  "name": "doguclks-mods",
+  "owner": { "name": "Dogukan Calkus" },
+  "description": "Claude Code mods: Turkish replies, a done notification, and a shield for dangerous commands.",
+  "plugins": [
+    {
+      "name": "turkish-mode",
+      "source": "./turkish-mode",
+      "description": "Makes Claude reply in Turkish; toggle it with /turkish."
+    },
+    {
+      "name": "done-notify",
+      "source": "./done-notify",
+      "description": "Plays a sound, flashes the terminal and leaves a Windows notification when a long turn finishes."
+    },
+    {
+      "name": "command-shield",
+      "source": "./command-shield",
+      "description": "Asks you before Claude runs a dangerous Bash or PowerShell command."
+    }
+  ]
+}
