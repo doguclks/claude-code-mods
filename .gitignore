@@ -1,5 +1,5 @@
 # Written by Claude Code when it loads a mod from a folder
-.claude-plugin/types/
-.mcpb-cache/
+**/.claude-plugin/types/
+**/.mcpb-cache/
 *.log
 .DS_Store

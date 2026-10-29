@@ -1,0 +1,9 @@
+{
+  "name": "session-summary",
+  "version": "0.1.0",
+  "description": "/summary sums up what this session did, with every to-do marked done, in progress or not started.",
+  "author": { "name": "Dogukan Calkus" },
+  "license": "MIT",
+  "repository": "https://github.com/doguclks/claude-code-mods",
+  "types": "./types/index.d.ts"
+}
