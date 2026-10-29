@@ -1,0 +1,9 @@
+{
+  "name": "session-panel",
+  "version": "0.1.0",
+  "description": "A live side panel: session time, turns, cost, context, to-do progress and the files Claude changed; toggle it with /panel.",
+  "author": { "name": "Dogukan Calkus" },
+  "license": "MIT",
+  "repository": "https://github.com/doguclks/claude-code-mods",
+  "types": "./types/index.d.ts"
+}

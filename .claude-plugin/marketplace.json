@@ -1,7 +1,7 @@
 {
   "name": "doguclks-mods",
   "owner": { "name": "Dogukan Calkus" },
-  "description": "Claude Code mods: Turkish replies, a done notification, a shield for dangerous commands, and a session summary.",
+  "description": "Claude Code mods: Turkish replies, a done notification, a shield for dangerous commands, a session summary, and a live session panel.",
   "plugins": [
     {
       "name": "turkish-mode",
@@ -22,6 +22,11 @@
       "name": "session-summary",
       "source": "./session-summary",
       "description": "/summary sums up what this session did, with every to-do marked done, in progress or not started."
+    },
+    {
+      "name": "session-panel",
+      "source": "./session-panel",
+      "description": "A live side panel: session time, turns, cost, context, to-do progress and the files Claude changed; toggle it with /panel."
     }
   ]
 }
